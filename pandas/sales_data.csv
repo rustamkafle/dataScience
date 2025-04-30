@@ -1,0 +1,10 @@
+customer_id,product_name,category,price,quantity_sold,order_date,region,review_text
+1,Laptop,Electronics,1200.00,2,2023-05-12,North,Laptop works great!
+2,Headphones,Electronics,150.00,5,2023-05-13,South,headphones sound amazing
+3,Table,Furniture,,1,2023-05-14,East,Table is sturdy
+4,Chair,Furniture,80.00,3,2023-05-15,West,chair broke after a week
+5,Laptop,Electronics,1200.00,1,2023-05-16,North,Great laptop
+6,Headphones,Electronics,150.00,,2023-05-17,South,
+7,Desk,Furniture,200.00,2,2023-05-18,East,desk is ok
+8,Sofa,Furniture,500.00,1,2023-05-19,West,SOFA IS COMFORTABLE
+9,Laptop,Electronics,1200.00,2,2023-05-12,North,Laptop works great!
